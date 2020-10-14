@@ -1,0 +1,35 @@
+Universitas Maju Bersama Kita Jaya berkeinginan melihat gambaran yang lebih jelas tentang distribusi penghasilan orang tua mahasiswa. Untuk itu diambil 260 orang tua mahasiswa sebagai sampel, kemudian dicatat penghasilan per bulannya (dalam ratusan ribu rupiah). Berikut hasilnya:
+
+91 78 93 57 75 52 99 80 97 62 71 69 72 89 66 104 89 56 45 36
+75 79 75 72 72 76 104 74 62 68 97 105 77 65 80 28 102 91 92 30
+109 85 97 88 68 83 68 71 69 67 74 62 82 98 101 99 46 65 87 35
+79 105 79 69 62 73 82 47 48 53 54 65 65 71 57 57 85 37 75 73
+58 100 56 45 37 65 38 39 45 43 44 73 70 56 57 94 83 64 59 52
+40 42 45 76 73 78 65 64 68 58 59 60 60 75 71 34 54 57 48 39
+36 45 69 76 59 58 81 61 62 38 40 43 59 61 53 65 59 49 43 101
+65 46 78 72 74 84 39 49 68 64 72 74 76 81 57 94 89 92 81 79
+58 65 47 48 59 73 83 59 62 61 70 71 72 68 69 72 68 64 74 76
+40 42 78 73 56 62 64 72 65 66 35 89 65 70 53 50 61 56 49 47
+72 78 75 87 85 74 76 68 69 89 85 84 54 57 64 49 69 40 48 60 
+45 56 47 48 60 78 60 68 49 47 51 58 38 39 85 83 75 72 71 81
+84 75 74 67 68 49 48 57 53 54 65 68 69 64 39 48 51 69 64 79
+
+Buatlah : 
+1. Distribusi frekuensinya, 
+2. Histogram, ogive, diagram lingkaran (prosentase)
+3. Rata-rata (mean), modus, median, Kwartil 1, Kwartil 3
+4. Varians (ragam), standart deviasi dan KK. 
+5. Interpretasi dari data  penghasilan orang tua tersebut di atas.
+
+Catatan : 
+NBI terakhir angka 0 --- n=200
+NBI terakhir angka 1 --- n=210
+NBI terakhir angka 2 --- n=220
+NBI terakhir angka 3 --- n=230
+NBI terakhir angka 4 --- n=240
+NBI terakhir angka 5 --- n=250
+NBI terakhir angka 6 --- n=260
+NBI terakhir angka 7 --- n=170
+NBI terakhir angka 8 --- n=180
+NBI terakhir angka 9 --- n=190
+
