@@ -1,0 +1,13 @@
+## Visualisasi di Ms. Excel
+
+a) Histogram
+  * Input Range : Semua Data 
+  * BIN : Data (Xi)
+
+b) Ogive
+  * Range : Interval Kelas
+  * Positive : Frekuensi Kumulatif Kurang Dari
+  * Negative : Frekuensi Kumulatif Lebih Dari
+
+c) Diagram Lingkaran
+  * Input Range : Data Kelas & Data Frekuensi
