@@ -1,0 +1,20 @@
+a) Mean (Rata-rata) : Fi*Xi/n
+  => n : total frekuensi
+
+b) Modus
+  => Tepi bawah : modus - 0.5
+  => d1 : frekuensi modus - frekuensi sebelum modus
+  => d2 : frekuensi modus - frekuensi setelah modus
+  => p : panjang kelas / interval
+
+c) Median (Q2)
+  => tb : 1/2 * n
+  => Q  : nilai tepi bawah - 0.5, dari nilai range fk kurang dari
+  => fk : frekuensi kumulatif sebelum quartil
+  => fi : frekuensi quartil
+  
+d) Kwartil 1 (Q1)
+  => tb : 1/4 * n
+ 
+e) Kwartil 3 (Q3)
+  => tb : 3/4 * n
