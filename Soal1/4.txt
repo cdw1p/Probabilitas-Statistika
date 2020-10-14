@@ -1,0 +1,3 @@
+a) Ragam : ((Fi*Xi^2)-((Fi*Xi)^2/n))/n-1
+b) Simpangan Baku : Ragam^(1/2)
+c) KK : (Simpangan Baku/Rata-rata)*n
